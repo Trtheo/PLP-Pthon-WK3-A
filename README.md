@@ -15,4 +15,19 @@ This is a simple Python program that calculates the final price of an item after
 2. Run the Python script in your terminal or IDE
 
 ```bash
-python index.py
+https://github.com/Trtheo/PLP-Pthon-WK3-A.git
+
+run  python index.py
+```
+## Follow the prompts to enter:
+
+Original price of the item
+
+Discount percentage
+
+## Example
+```bash
+Enter the original price of the item: 200
+Enter the discount percentage: 25
+Discount applied. Final price: $150.00
+```
